@@ -1,2 +1,2 @@
-#!?bin/bash
+#!/bin/bash
 ils -al > ls_cwd_content
